@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Faustina:wght@500;600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="iphone-14-15-pro-max-6">
+      <main class="help-screen">
+        <div class="female-athlete-with-dumbbells-"></div>
+        <div class="asian-women-are-exercising-gym"></div>
+        <form class="inner-frame">
+          <div class="rectangle-shape"></div>
+          <img
+            class="untitled-3-1-icon"
+            alt=""
+            src="./public/untitled3-1@2x.png"
+          />
+
+          <div class="fit-kit-text-wrapper">
+            <div class="fit-kit-text">
+              <h1 class="fitkit">
+                <span class="fit">Fit</span>
+                <span class="kit">Kit</span>
+              </h1>
+              <div class="ellipse-shape-a"></div>
+            </div>
+          </div>
+          <div class="parent-group">
+            <div class="start-frame">
+              <h2 class="let-us-know-container">
+                <p class="let-us-know">Let us know how</p>
+                <p class="we-can-help">we can help you</p>
+              </h2>
+              <div class="frame-parent">
+                <div class="rectangle-parent">
+                  <div class="frame-child"></div>
+                  <input
+                    class="weight-loss"
+                    placeholder="Weight Loss"
+                    type="text"
+                  />
+
+                  <div class="ellipse-shape-b"></div>
+                </div>
+                <div class="rectangle-group">
+                  <div class="frame-item"></div>
+                  <input
+                    class="better-sleeping-habit"
+                    placeholder="Better Sleeping Habit"
+                    type="text"
+                  />
+
+                  <div class="frame-inner"></div>
+                </div>
+                <div class="rectangle-container">
+                  <div class="rectangle-div"></div>
+                  <input
+                    class="track-my-nutrition"
+                    placeholder="Track My Nutrition"
+                    type="text"
+                  />
+
+                  <div class="bullet-point"></div>
+                </div>
+                <div class="group-div">
+                  <div class="frame-child1"></div>
+                  <input
+                    class="improvr-overall-fitness"
+                    placeholder="Improvr Overall Fitness"
+                    type="text"
+                  />
+
+                  <div class="ellipse-div"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <footer class="text-element-b-wrapper">
+            <button class="text-element-b">
+              <div class="text-element-b-child"></div>
+              <div class="get-stared">Get Stared</div>
+            </button>
+          </footer>
+        </form>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Open Sans:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="iphone-14-15-pro-max-1">
+      <main class="splash-screen">
+        <img
+          class="pexels-gustavo-rodrigues-17484-icon"
+          alt=""
+          src="./public/pexelsgustavorodrigues1748447-1@2x.png"
+        />
+
+        <section class="frame-wrapper">
+          <img
+            class="frame-icon"
+            loading="lazy"
+            alt=""
+            src="C:\Users\admin\OneDrive\Desktop\figma\pexels-gustavo-rodrigues-1748447.jpg"
+          />
+        </section>
+        <section class="text">
+          <div class="header-frame">
+            <div class="ellipse">
+              <div class="welcome-message"></div>
+            </div>
+            <h2 class="welcome-to-fitkit">Welcome To FitKit</h2>
+          </div>
+        </section>
+        <div class="splash-screen-child"></div>
+        <div class="skip-button-wrapper">
+          <div class="skip-button">
+            <div class="skip">Skip</div>
+            <div class="ellipses">
+              <div class="ellipse-cluster"></div>
+              <div class="ellipse-cluster1"></div>
+              <div class="ellipse-cluster2"></div>
+            </div>
+            <div class="next">Next</div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Faustina:wght@500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Open Sans:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Font Awesome 5 Brands:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="iphone-14-15-pro-max-4">
+      <main class="login-screen">
+        <div class="female-athlete-with-dumbbells-"></div>
+        <div class="asian-women-are-exercising-gym"></div>
+        <img class="email-1-icon" alt="" src="./public/email-1.svg" />
+
+        <img class="email-1-icon1" alt="" src="./public/email-1.svg" />
+
+        <section class="untitled-frame-parent">
+          <div class="untitled-frame"></div>
+          <img
+            class="untitled-3-1-icon"
+            alt=""
+            src="./public/untitled3-1@2x.png"
+          />
+
+          <div class="fitkit-parent">
+            <h1 class="fitkit">
+              <span>Fit</span>
+              <span class="kit">Kit</span>
+            </h1>
+            <div class="frame-child"></div>
+          </div>
+          <div class="create-account-text-parent">
+            <div class="create-account-text">
+              <div class="create-your-account">Create Your Account</div>
+            </div>
+            <div class="email-id-frame">
+              <div class="username-parent">
+                <input class="username" placeholder="Username*" type="text" />
+
+                <img class="user-1-icon" alt="" src="./public/user-1.svg" />
+              </div>
+              <div class="the-best-platform-for-car-rent"></div>
+            </div>
+            <div class="sign-up-button-frame-parent">
+              <div class="sign-up-button-frame">
+                <div class="o-r-frame">
+                  <div class="email-id">Email Id*</div>
+                  <img
+                    class="email-1-icon2"
+                    loading="lazy"
+                    alt=""
+                    src="./public/email-1.svg"
+                  />
+                </div>
+                <div class="email-input"></div>
+              </div>
+              <div class="password-input">
+                <input class="password" placeholder="Password*" type="text" />
+
+                <div class="o-r-text"></div>
+                <img
+                  class="password-1-icon"
+                  alt=""
+                  src="./public/password-1.svg"
+                />
+              </div>
+              <div class="lorem-ipsum">
+                <input class="signup-button" type="checkbox" />
+
+                <div class="i-read-and-container">
+                  <span>I Read and agree to </span>
+                  <span class="terms-conditions">Terms & Conditions</span>
+                </div>
+              </div>
+            </div>
+            <div class="login-frame">
+              <div class="signup-text">
+                <div class="lorem-ipsum-is-container">
+                  <p class="lorem-ipsum-is">
+                    Lorem Ipsum is simply dummy text of
+                  </p>
+                  <p class="the-printing-and-typesetting">
+                    <span>the printing and </span>
+                    <b class="typesetting">typesetting</b>
+                    <span class="span"> </span>
+                  </p>
+                </div>
+                <button class="frame-splitter">
+                  <div class="frame-splitter-child"></div>
+                  <div class="signup">Signup</div>
+                </button>
+              </div>
+              <div class="account-login">
+                <div class="or">OR</div>
+                <div class="fork-junction">
+                  <button class="divider-line">
+                    <div class="divider-line-child"></div>
+                    <div class="div"></div>
+                  </button>
+                  <button class="divider-line1">
+                    <div class="divider-line-item"></div>
+                    <div class="div1"></div>
+                  </button>
+                </div>
+              </div>
+              <div class="alternative-link">
+                <div class="already-have-an-container">
+                  <span>Already have an account? </span>
+                  <span class="login">Login</span>
+                </div>
+                <div class="log-in-with">Log In With Account</div>
+              </div>
+            </div>
+          </div>
+        </section>

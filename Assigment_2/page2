@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Faustina:wght@500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Open Sans:wght@400;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="iphone-14-15-pro-max-2">
+      <div class="sign-screen">
+        <main class="pexels-gustavo-rodrigues-17484-parent">
+          <img
+            class="pexels-gustavo-rodrigues-17484-icon"
+            alt=""
+            src="./public/pexelsgustavorodrigues1748447-2@2x.png"
+          />
+
+          <img class="icon" loading="lazy" alt="" src="./public/3-2@2x.png" />
+
+          <section class="fit-kit-label-wrapper">
+            <div class="fit-kit-label">
+              <div class="fitkit-parent">
+                <h1 class="fitkit">FitKit</h1>
+                <div class="input-field"></div>
+              </div>
+              <div class="sign-up-label">
+                <div class="lorem-ipsum">
+                  <div class="lorem-ipsum-is-container">
+                    <p class="lorem-ipsum-is">
+                      Lorem Ipsum is simply dummy text of
+                    </p>
+                    <p class="the-printing-and-typesetting">
+                      <span>the printing and </span>
+                      <b class="typesetting">typesetting</b>
+                      <span class="span"> </span>
+                    </p>
+                  </div>
+                  <div class="account-icon">
+                    <div class="account-icon-child"></div>
+                    <h3 class="sign-up">Sign Up</h3>
+                  </div>
+                </div>
+                <div class="log-in-with">Log In With Account</div>
+              </div>
+            </div>
+          </section>
+        </main>
